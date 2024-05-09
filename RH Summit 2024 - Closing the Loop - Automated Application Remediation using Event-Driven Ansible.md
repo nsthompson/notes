@@ -1,5 +1,7 @@
 # Red Hat Summit 2024
 
+[![hackmd-github-sync-badge](https://hackmd.io/yxUBJmMeS76Auq31qHR5KQ/badge)](https://hackmd.io/yxUBJmMeS76Auq31qHR5KQ)
+
 ## Closing the Loop: Automated Application Remediation using Event-Driven Ansible
 
 ### Event Details
