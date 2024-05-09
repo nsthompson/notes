@@ -1,5 +1,7 @@
 # WWT Automation.Day - St. Louis
 
+[![hackmd-github-sync-badge](https://hackmd.io/Qu6V0UEvSl2UQjsW1ek2nQ/badge)](https://hackmd.io/Qu6V0UEvSl2UQjsW1ek2nQ)
+
 ## Closing the Loop: Automated Application Remediation using Event-Driven Ansible
 
 ### Event Details
