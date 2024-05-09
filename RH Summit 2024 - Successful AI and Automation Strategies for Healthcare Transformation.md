@@ -1,5 +1,7 @@
 # Red Hat Summit 2024
 
+[![hackmd-github-sync-badge](https://hackmd.io/OXM7Kd7QTMGTG2z042Hqbw/badge)](https://hackmd.io/OXM7Kd7QTMGTG2z042Hqbw)
+
 ## Successful AI and Automation Strategies for Healthcare Transformation
 
 ### Event Details
@@ -18,7 +20,6 @@ Tim Hull
 Technical Solutions Architect
 World Wide Technology
 [https://github.com/timothyhull](https://github.com/timothyhull)
-
 
 ### Session Abstract
 
