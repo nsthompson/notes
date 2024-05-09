@@ -1,5 +1,7 @@
 # Ansible Minneapolis
 
+[![hackmd-github-sync-badge](https://hackmd.io/cE2bmJDuSxe-TGCIN3X8NA/badge)](https://hackmd.io/cE2bmJDuSxe-TGCIN3X8NA)
+
 ## Using Ansible to automate edge site infrastructure at scale
 
 ### Meetup Details
