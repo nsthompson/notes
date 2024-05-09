@@ -1,5 +1,7 @@
 # Red Hat Summit: Connect - St. Louis
 
+[![hackmd-github-sync-badge](https://hackmd.io/bahEp9r7SkekETANkR2D-Q/badge)](https://hackmd.io/bahEp9r7SkekETANkR2D-Q)
+
 ## Using Ansible to automate edge site infrastructure at scale
 
 ### Event Details
