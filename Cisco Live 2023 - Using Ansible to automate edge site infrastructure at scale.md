@@ -1,5 +1,7 @@
 # Using Ansible to automate edge site infrastructure at scale
 
+[![hackmd-github-sync-badge](https://hackmd.io/zA3bL0lAT_62QC-M9cMEeQ/badge)](https://hackmd.io/zA3bL0lAT_62QC-M9cMEeQ)
+
 ## Session Schedule
 
 * Monday, June 5th, 2023 - 3:00 PM PDT
